@@ -1,6 +1,6 @@
 # Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
 
-### Name : Moahmmmed ibrahim mn 
+### Name : Moahmmmed ibrahim mn
 ### Reg.No : 212223100034
 
 ## AIM:
